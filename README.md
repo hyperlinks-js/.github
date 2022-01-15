@@ -1,2 +1,2 @@
-# .github
-Org config
+# Org config
+
