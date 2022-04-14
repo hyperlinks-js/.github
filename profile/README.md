@@ -1,4 +1,4 @@
-<img src='https://raw.githubusercontent.com/hyperlinks-js/.github/main/Hyperlinks.png' />
+<img src='https://raw.githubusercontent.com/hyperlinks-js/.github/main/assets/Hyperlinks.png' alt="Hyperlinks-logo"/>
 
 <!--
 
