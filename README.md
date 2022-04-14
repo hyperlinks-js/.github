@@ -1,6 +1,6 @@
 # .github
 
-> inspired from [https://github.com/github/.github]()
+> inspired from [https://github.com/github/.github](https://github.com/github/.github)
 
 *Community health files for the @hyperlinks-js organization*
 
